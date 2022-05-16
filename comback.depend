@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1652554437 source:c:\users\user\desktop\comback\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1652626061 source:c:\users\user\desktop\comback\main2.c
+	<stdio.h>
+
