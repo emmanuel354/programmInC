@@ -1,0 +1,2 @@
+this is an experiment on fopen and fclose
+am understanding better !!!!

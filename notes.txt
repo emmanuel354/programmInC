@@ -1,1 +1,1 @@
-strcpy(structObj.name, value)
+strcpy(structObj.name, value),... 2:25
